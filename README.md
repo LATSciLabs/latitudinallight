@@ -1,4 +1,4 @@
-trash code work
+code work for work!
 
 <!---
 latitudinallight/latitudinallight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
